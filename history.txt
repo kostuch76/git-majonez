@@ -1,0 +1,1000 @@
+  316  ./a.out > 9_S.pnm
+  317  g++ 9_S.cpp
+  318  ./a.out > 9_S.pnm
+  319  g++ 9_D.cpp
+  320  ./a.out > 9_D.pnm
+  321  g++ 9_N.cpp
+  322  ./a.out > 9_D.pnmN
+  323  ./a.out > 9_N.pmn
+  324  g++ 9_N.cpp
+  325  ./a.out > 9_N.pmn
+  326  g++ 9_N.cpp
+  327  ./a.out > 9_N.pmn
+  328  g++ 9_N.cpp
+  329  ./a.out > 9_N.pmn
+  330  g++ 9_N.cpp
+  331  ./a.out > 9_N.pmn
+  332  g++ 9_N.cpp
+  333  ./a.out > 9_N.pmn
+  334  g++ 9_N.cpp
+  335  ./a.out > 9_N.pmn
+  336  g++ 9_N.cpp
+  337  ./a.out > 9_N.pmn
+  338  g++ 9_N.cpp
+  339  ./a.out > 9_N.pmn
+  340  g++ 9_N.cpp
+  341  ./a.out > 9_N.pmn
+  342  g++ 9_N.cpp
+  343  ./a.out > 9_N.pmn
+  344  g++ 9_N.cpp
+  345  ./a.out > 9_N.pmn
+  346  g++ 9_S.cpp
+  347  ./a.out > 9_S.pmn
+  348  ./a.out > 9_S.pnm
+  349  g++ 9_N.cpp
+  350  ./a.out > 9_N.pnm
+  351  g++ 10.cpp
+  352  ./a.out
+  353  g++ 10.cpp
+  354  ./a.out
+  355  g++ 10.cpp
+  356  ./a.out
+  357  g++ 10.cpp
+  358  ./a.out
+  359  g++ 10.cpp
+  360  ./a.out
+  361  g++ 10.cpp
+  362  ./a.out
+  363  g++ 10.cpp
+  364  ./a.out > 10.pnm
+  365  g++ 10.cpp
+  366  ./a.out > 10.pnm
+  367  g++ 10.cpp
+  368  ./a.out > 10.pnm
+  369  g++ 10.cpp
+  370  ./a.out > 10.pnm
+  371  g++ 10.cpp
+  372  ./a.out > 10.pnm
+  373  g++ 10.cpp
+  374  ./a.out > 10.pnm
+  375  g++ 10.cpp
+  376  ./a.out > 10.pnm
+  377  cd
+  378  ls
+  379  cd Pulpit
+  380  cd ZJAZD4
+  381  ls
+  382  g++ 10.cpp
+  383  ./a.out
+  384  g++ 10.cpp
+  385  ./a.out
+  386  g++ 10.cpp
+  387  ./a.out >> 10.pnm
+  388  ./a.out
+  389  g++ 10.cpp
+  390  ./a.out
+  391  g++ 10.cpp
+  392  ./a.out
+  393  ./a.out >> 10.pnm
+  394  g++ 10.cpp
+  395  ./a.out >> 10.pnm
+  396  g++ 10.cpp
+  397  ./a.out >> 10.pnm
+  398  g++ 10.cpp
+  399  ./a.out >> 10.pnm
+  400  g++ 10.cpp
+  401  ./a.out >> 10.pnm
+  402  g++ 10.cpp
+  403  ./a.out > moj.pnm
+  404  g++ 10.cpp
+  405  ./a.out > moj.pnm
+  406  g++ 10.cpp
+  407  ./a.out > moj.pnm
+  408  g++ 10.cpp
+  409  ./a.out > moj.pnm
+  410  g++ 10.cpp
+  411  ./a.out > moj.pnm
+  412  g++ 10.cpp
+  413  ./a.out
+  414  g++ 10.cpp
+  415  ./a.out
+  416  g++ 10.cpp
+  417  ./a.out
+  418  g++ 10.cpp
+  419  ./a.out
+  420  g++ 10.cpp
+  421  ./a.out
+  422  g++ 10.cpp
+  423  ./a.out
+  424  g++ 10.cpp
+  425  ./a.out
+  426  g++ 10.cpp
+  427  ./a.out
+  428  g++ 10.cpp
+  429  ./a.out
+  430  g++ 10.cpp
+  431  ./a.out
+  432  g++ 10.cpp
+  433  ./a.out
+  434  g++ 10.cpp
+  435  ./a.out
+  436  g++ 10.cpp
+  437  ./a.out > 10.pnm
+  438  g++ 10.cpp
+  439  ./a.out > 13.pnm
+  440  g++ 10.cpp
+  441  ./a.out > 13.pnm
+  442  ./a.out
+  443  g++ 10.cpp
+  444  ./a.out > 13.pnm
+  445  g++ 10.cpp
+  446  ./a.out > 13.pnm
+  447  g++ 10.cpp
+  448  ./a.out > 13.pnm
+  449  g++ 10.cpp
+  450  ./a.out > 13.pnm
+  451  g++ 10.cpp
+  452  ./a.out > 13.pnm
+  453  g++ 10.cpp
+  454  ./a.out > 13.pnm
+  455  g++ 11.cpp
+  456  ./a.out > 11.pnm
+  457  g++ 11.cpp
+  458  ./a.out > 11.pnm
+  459  g++ 11.cpp
+  460  ./a.out > 11.pnm
+  461  g++ 11.cpp
+  462  ./a.out > 11.pnm
+  463  g++ 11.cpp
+  464  ./a.out > 11.pnm
+  465  g++ 11.cpp
+  466  ./a.out > 11.pnm
+  467  g++ 11.cpp
+  468  ./a.out > 11.pnm
+  469  g++ 11.cpp
+  470  ./a.out > 11.pnm
+  471  g++ 11.cpp
+  472  ./a.out > 11.pnm
+  473  g++ 11.cpp
+  474  ./a.out > 11.pnm
+  475  g++ 11.cpp
+  476  ./a.out > 11.pnm
+  477  g++ 11.cpp
+  478  ./a.out > 11.pnm
+  479  g++ 11.cpp
+  480  ./a.out > 11.pnm
+  481  g++ 12.cpp
+  482  ./a.out
+  483  g++ 12.cpp
+  484  ./a.out
+  485  g++ 12.cpp
+  486  ./a.out
+  487  g++ 12.cpp
+  488  ./a.out
+  489  g++ 12.cpp
+  490  ./a.out
+  491  g++ 12.cpp
+  492  ./a.out
+  493  g++ 12.cpp
+  494  ./a.out
+  495  g++ 12.cpp
+  496  ./a.out
+  497  g++ 12.cpp
+  498  ./a.out
+  499  g++ 12.cpp
+  500  ./a.out
+  501  g++ 12.cpp
+  502  ./a.out
+  503  g++ 12.cpp
+  504  ./a.out
+  505  g++ 12.cpp
+  506  ./a.out
+  507  g++ 12.cpp
+  508  ./a.out
+  509  g++ 12.cpp
+  510  ./a.out
+  511  g++ 12.cpp
+  512  ./a.out
+  513  ls
+  514  cd
+  515  ls
+  516  cd Pulpit
+  517  md ZJAZD5
+  518  ls
+  519  mk ZJAZD5
+  520  mkdir ZJAZD5
+  521  cd ZJAZD5
+  522  ls
+  523  g++ 1.cpp
+  524  ./a.out
+  525  g++ 1.cpp
+  526  ./a.out
+  527  g++ 1.cpp
+  528  ./a.out
+  529  g++ 1.cpp
+  530  ./a.out
+  531  g++ 1.cpp
+  532  ./a.out
+  533  g++ 1.cpp
+  534  ./a.out
+  535  g++ 1.cpp
+  536  ./a.out
+  537  g++ 1.cpp
+  538  ./a.out
+  539  g++ 1.cpp
+  540  ./a.out
+  541  g++ 1.cpp
+  542  ./a.out
+  543  g++ 1.cpp
+  544  ./a.out
+  545  g++ 1.cpp
+  546  ./a.out
+  547  g++ 1.cpp
+  548  ./a.out
+  549  g++ 1.cpp
+  550  ./a.out
+  551  g++ 1.cpp
+  552  ./a.out
+  553  ./a.out | hexdump -C
+  554  g++ 1.cpp
+  555  ./a.out | hexdump -C
+  556  g++ 2.cpp
+  557  ./a.out 
+  558  g++ 2.cpp
+  559  ./a.out 
+  560  g++ 2.cpp
+  561  ./a.out 
+  562  g++ 3.cpp
+  563  ./a.out
+  564  g++ 3.cpp
+  565  ./a.out
+  566  g++ 3.cpp
+  567  ./a.out
+  568  g++ 3.cpp
+  569  ./a.out
+  570  g++ 3.cpp
+  571  ./a.out
+  572  g++ 3.cpp
+  573  ./a.out
+  574  g++ 3.cpp
+  575  g++ 3.cpp
+  576  ./a.out
+  577  g++ 3.cpp
+  578  ./a.out
+  579  g++ 3.cpp
+  580  ./a.out
+  581  g++ 3.cpp
+  582  ./a.out
+  583  g++ 3.cpp
+  584  ./a.out
+  585  g++ 4.cpp
+  586  ./a.out
+  587  g++ 4.cpp
+  588  ./a.out
+  589  valgrind
+  590  sudo apt install valgrind
+  591  g++ 5.cpp
+  592  ./a.out
+  593  g++ 5.cpp
+  594  valgrind ./a.out
+  595  g++ 5.cpp
+  596  valgrind ./a.out
+  597  g++ 5.cpp
+  598  valgrind ./a.out
+  599  ./a.out
+  600  g++ 5.cpp
+  601  valgrind ./a.out
+  602  ./a.out
+  603  g++ 4.cpp
+  604  ./a.out
+  605  g++ 4.cpp
+  606  ./a.out
+  607  g++ 4.cpp
+  608  ./a.out
+  609  g++ 4.cpp
+  610  ./a.out
+  611  g++ 4.cpp
+  612  ./a.out
+  613  g++ 4.cpp
+  614  ./a.out
+  615  g++ 4.cpp
+  616  ./a.out
+  617  g++ 4.cpp
+  618  ./a.out
+  619  g++ 4.cpp
+  620  ./a.out
+  621  g++ 4.cpp
+  622  ./a.out
+  623  g++ 4.cpp
+  624  ./a.out
+  625  g++ 4.cpp
+  626  ./a.out
+  627  g++ 4.cpp
+  628  ./a.out
+  629  g++ 4.cpp
+  630  ./a.out
+  631  g++ 5.cpp
+  632  ./a.out
+  633  g++ 6.cpp
+  634  ./a.out
+  635  g++ 6.cpp
+  636  ./a.out
+  637  g++ 7.cpp
+  638  ./a.out
+  639  g++ 7.cpp
+  640  ./a.out
+  641  g++ 7.cpp
+  642  ./a.out
+  643  g++ 08_obiekty_ze_wsk.cpp 
+  644  ./a.out
+  645  g++ 7b.cpp
+  646  ./a.out
+  647  cd ZJAZD6
+  648  ls
+  649  cd
+  650  ls
+  651  cd Pulpit
+  652  ls
+  653  cd ZJAZD6
+  654  g++ 1.cpp
+  655  ./a.out
+  656  g++ 1.cpp
+  657  ./a.out
+  658  g++ 2.cpp
+  659  ./a.out
+  660  g++ 2.cpp
+  661  ./a.out
+  662  g++ 2.cpp
+  663  ./a.out
+  664  g++ 3.cpp
+  665  ./a.out
+  666  g++ 4.cpp
+  667  g++ 4.cpp,
+  668  g++ 4.cpp
+  669  ./a.out
+  670  g++ 5.cpp
+  671  ./a.out
+  672  g++ 5.cpp
+  673  ./a.out
+  674  g++ 5.cpp
+  675  ./a.out
+  676  g++ 5.cpp
+  677  ./a.out
+  678  g++ 5.cpp
+  679  ./a.out
+  680  g++ 5.cpp
+  681  ./a.out
+  682  g++ 5.cpp
+  683  ./a.out
+  684  g++ 5.cpp
+  685  ./a.out
+  686  g++ 5.cpp
+  687  ./a.out
+  688  g++ 5.cpp
+  689  ./a.out
+  690  g++ 5.cpp
+  691  ./a.out
+  692  g++ 5.cpp
+  693  ./a.out
+  694  g++ 5.cpp
+  695  ./a.out
+  696  touch ZADANIE6/Osoba.hpp
+  697  touch Osoba.hpp
+  698  touch Osoba.cpp
+  699  touch Makefile
+  700  g++ 5.cpp Osoba.o
+  701  g++ -o 5.cpp Osoba.o
+  702  g++ -c 5.cpp Osoba.o
+  703  make
+  704  ./a.out
+  705  make
+  706  ./z02
+  707  make
+  708  ./z02
+  709  make
+  710  ./z02
+  711  make
+  712  ./z02
+  713  make
+  714  ./z02
+  715  make
+  716  ./z02
+  717  make
+  718  ./z02
+  719  make
+  720  ./z02
+  721  make
+  722  ./z02
+  723  g++ 6.cpp
+  724  ,/a.out
+  725  ./a.out
+  726  g++ 6.cpp
+  727  ./a.out
+  728  g++ 6.cpp
+  729  ./a.out
+  730  g++ 7.cpp
+  731  ./a.out
+  732  g++ 7.cpp
+  733  ./a.out
+  734  mkdir lista
+  735  ls
+  736  cd lista
+  737  make
+  738  ./a.out
+  739  make run
+  740  make 
+  741  make run
+  742  make
+  743  make run
+  744  make
+  745  make run
+  746  make 
+  747  ./a.out
+  748  make 
+  749  ./a.out
+  750  make 
+  751  g++ 3.cpp
+  752  g++ 2.cpp
+  753  ./a.out
+  754  g++ -c 2.cpp
+  755  g++ -o 2.cpp
+  756  g++ -o 2.o 2.cpp
+  757  g++ -c -o 2.o 2.cpp
+  758  g++ -c 11.cpp
+  759  g++ -c -o 123.o 11.cpp
+  760  g++  -o 123.o 11.cpp
+  761  g++  -o 1253.o 11.cpp
+  762  g++ -c 1253.o
+  763  g++ -c -o 1253.o
+  764  g++ -c -o 11.cpp
+  765  g++ -c -o 1253.p 11.cpp
+  766  g++ -c  -o 1253.o 11.cpp
+  767  g++  -o 1253.o 
+  768  g++  -o 1253.o 11.cpp
+  769  g++ 13.cpp -o 1_2
+  770  g++ 13.cpp -o 1_2.o
+  771  ./a.out
+  772  g++ -c 11_1.o 13.cpp
+  773  g++ -o 11_1.o 13.cpp
+  774  ./a.out
+  775  5
+  776  g++ -c 11_1.o
+  777  g++ -c 11_1.o 13.cpp
+  778  g++ -c -o  11_1.o 13.cpp
+  779  g++ 12.cpp
+  780  ./a.out
+  781  make
+  782  cd
+  783  pwd
+  784  ls
+  785  cd Pulpit/
+  786  ls
+  787  mkdir CW_MAKE
+  788  cd CW_MAKE/
+  789  cd lista
+  790  make run
+  791  make
+  792  make run
+  793  make
+  794  g++ -o test.o
+  795  g++ -o test.cpp
+  796  make
+  797  make run
+  798  make
+  799  make run
+  800  g++ test.o Struktury.o -o test
+  801  ./test
+  802  make run
+  803  cd
+  804  ls
+  805  cd Pulpit
+  806  ls
+  807  mkdir ZJAZD7
+  808  cd ZJAZD7
+  809  g++ 01_dziedziczenie.cpp 
+  810  ./a.out
+  811  g++ 01_dziedziczenie.cpp 
+  812  ./a.out
+  813  g++ 1.cpp
+  814  ./a.out
+  815  g++ 1.cpp
+  816  ./a.out
+  817  g++ 1.cpp
+  818  g++ 01_dziedziczenie.cpp 
+  819  ./a.out
+  820  g++ 01_dziedziczenie.cpp 
+  821  ./a.out
+  822  g++ 02_mapa.cpp 
+  823  ./a.out
+  824  g++ 02_mapa.cpp 
+  825  ./a.out
+  826  g++ 02_mapa.cpp 
+  827  ./a.out
+  828  g++ 02_mapa.cpp 
+  829  ./a.out
+  830  g++ 02_mapa.cpp 
+  831  ./a.out
+  832  g++ 02_mapa.cpp 
+  833  ./a.out
+  834  g++ 02_mapa.cpp 
+  835  ./a.out
+  836  g++ 02_mapa.cpp 
+  837  ./a.out
+  838  g++ 02_mapa.cpp 
+  839  ./a.out
+  840  g++ 02_mapa.cpp 
+  841  ./a.out
+  842  g++ 02_mapa.cpp 
+  843  ./a.out
+  844  g++ 02_mapa.cpp 
+  845  ./a.out
+  846  g++ 02_mapa.cpp 
+  847  ./a.out
+  848  g++ 02_mapa.cpp 
+  849  ./a.out
+  850  g++ 02_mapa.cpp 
+  851  ./a.out
+  852  g++ 02_mapa.cpp 
+  853  ./a.out
+  854  g++ 02_mapa.cpp 
+  855  ./a.out
+  856  g++ 02_mapa.cpp 
+  857  ./a.out
+  858  g++ 2.cpp
+  859  ./a.out
+  860  g++ 2.cpp
+  861  ./a.out
+  862  g++ typy\ i\ wsk.cpp
+  863  ./a.out
+  864  g++ 02_mapa.cpp 
+  865  ./a.out
+  866  cd
+  867  ls
+  868  mkdir SVG
+  869  cd SVG
+  870  make
+  871  make run
+  872  cd
+  873  ls
+  874  cd Pulpit/
+  875  cd ZJAZD8
+  876  ls
+  877  cd SVG
+  878  ls
+  879  make
+  880  make run
+  881  cd
+  882  ls
+  883  cd Pulpit
+  884  ls
+  885  cd ZJAZD8
+  886  ls
+  887  mkdir SVG_CD
+  888  make run
+  889  g++ szablon1.cpp
+  890  ./a.out
+  891  g++ szablon1.cpp
+  892  ./a.out
+  893  g++ szablon1.cpp
+  894  ./a.out
+  895  g++ szablon1.cpp
+  896  ./a.out
+  897  g++ 1.cpp
+  898  ./a.out
+  899  g++ 2.cpp
+  900  ./a.out
+  901  g++ 2.cpp
+  902  ./a.out
+  903  g++ 2.cpp
+  904  ./a.out
+  905  g++ 2.cpp
+  906  ./a.out
+  907  g++ 2.cpp
+  908  ./a.out
+  909  g++ 2.cpp
+  910  ./a.out
+  911  cd
+  912  cd Pulpit
+  913  cd ZJAZD8
+  914  cd lista
+  915  make
+  916  g++ vector.cpp 
+  917  ./a.out
+  918  g++ vector.cpp 
+  919  ./a.out
+  920  g++ vector.cpp 
+  921  ./a.out
+  922  g++ vector.cpp 
+  923  ./a.out
+  924  g++ vector.cpp 
+  925  ./a.out
+  926  g++ vector.cpp 
+  927  ./a.out
+  928  g++ vector.cpp 
+  929  ./a.out
+  930  g++ vector.cpp 
+  931  ./a.out
+  932  g++ vector.cpp 
+  933  ./a.out
+  934  g++ vector.cpp 
+  935  ./a.out
+  936  g++ vector.cpp 
+  937  ./a.out
+  938  g++ vector.cpp 
+  939  ./a.out
+  940  g++ queue.cpp 
+  941  ./a.out
+  942  g++ stack.cpp
+  943  ./a.out
+  944  g++ list.cpp
+  945  ./a.out
+  946  g++ list.cpp
+  947  ./a.out
+  948  g++ list.cpp
+  949  ./a.out
+  950  g++ list.cpp
+  951  ./a.out
+  952  g++ list.cpp
+  953  ./a.out
+  954  g++ list.cpp
+  955  ./a.out
+  956  g++ list.cpp
+  957  ./a.out
+  958  cd
+  959  cd Pulpit
+  960  cd ZJAZD7
+  961  ls
+  962  cd SVG
+  963  ls
+  964  make run
+  965  cd
+  966  cd Pulpit
+  967  cd ZJAZD8
+  968  cd WYKRES
+  969  ls
+  970  make
+  971  cd WYKRES
+  972  make
+  973  g++ -c wykres.cpp
+  974  make
+  975  cd
+  976  ls
+  977  cd Pulpit/
+  978  ls
+  979  mkdir ZJAZD9
+  980  cd ZJAZD9
+  981  g++ 1_szblon.cpp 
+  982  ./a.out
+  983  g++ 1_szblon.cpp 
+  984  ./a.out
+  985  g++ 1_szblon.cpp 
+  986  ./a.out
+  987  g++ 1_szblon.cpp 
+  988  ./a.out
+  989  g++ 2_fib.cpp 
+  990  ./a.out
+  991  g++ 2_fib.cpp 
+  992  ./a.out
+  993  g++ 2_fib.cpp 
+  994  ./a.out
+  995  g++ 2_fib.cpp 
+  996  ./a.out
+  997  time ./a.out
+  998  g++ 2_fib.cpp 
+  999  time ./a.out
+ 1000  ./a.out _SZABLON
+ 1001  ./a.out _SZABLON_
+ 1002  ./a.out D_SZABLON_
+ 1003  g++ 2_fib.cpp -D_SZABLON_
+ 1004  time ./a.out
+ 1005  g++ 2_fib.cpp -02 -D_SZABLON_
+ 1006  g++ 2_fib.cpp -o2 -D_SZABLON_
+ 1007  time ./a.out
+ 1008  g++ 2_fib.cpp -o2 -D_SZABLON_
+ 1009  time ./a.out
+ 1010  g++ 2_fib.cpp -o3 -D_SZABLON_
+ 1011  time ./a.out
+ 1012  g++ 2_fib.cpp -02 -D_SZABLON_
+ 1013  g++ 2_fib.cpp -O2 -D_SZABLON_
+ 1014  time ./a.out
+ 1015  g++ 3_czablony.cpp 
+ 1016  ./a.out
+ 1017  g++ 3_czablony.cpp 
+ 1018  ./a.out
+ 1019  g++ 3_czablony.cpp 
+ 1020  ./a.out
+ 1021  g++ 3_czablony.cpp 
+ 1022  ./a.out
+ 1023  g++ 3_czablony.cpp 
+ 1024  ./a.out
+ 1025  g++ 4_classVector
+ 1026  g++ 4_classVector.cpp
+ 1027  ./a.out
+ 1028  g++ 4_classVector.cpp
+ 1029  ./a.out
+ 1030  g++ 4_classVector.cpp
+ 1031  ./a.out
+ 1032  g++ 4_classVector.cpp
+ 1033  ./a.out
+ 1034  g++ 4_classVector.cpp
+ 1035  ./a.out
+ 1036  g++ 4_classVector.cpp
+ 1037  ./a.out
+ 1038  g++ 4_classVector.cpp
+ 1039  ./a.out
+ 1040  g++ 4_classVector.cpp
+ 1041  ./a.out
+ 1042  g++ 4_classVector.cpp
+ 1043  ./a.out
+ 1044  sudo apt install clang-8
+ 1045  mkdir CW
+ 1046  cd CW
+ 1047  cd CW
+ 1048  g++ 1.cpp
+ 1049  ./a.out
+ 1050  g++ 1.cpp
+ 1051  ./a.out
+ 1052  g++ 1.cpp
+ 1053  ./a.out
+ 1054  mkdir MAPA
+ 1055  cd MAPA/
+ 1056  make
+ 1057  make run
+ 1058  g++ list.cpp
+ 1059  ./a.out
+ 1060  g++ list.cpp
+ 1061  ./a.out
+ 1062  make run
+ 1063  ls
+ 1064  cd MAPA/
+ 1065  make run
+ 1066  pwd
+ 1067  ls
+ 1068  cd Pulpit/
+ 1069  ls
+ 1070  cd ZJAZD5
+ 1071  ls
+ 1072  cat 6.cpp
+ 1073  more 5.cpp
+ 1074  more 6.cpp
+ 1075  less 6.cpp
+ 1076  man g++
+ 1077  ls -
+ 1078  ls
+ 1079  ls --
+ 1080  mkdir CW
+ 1081  cd CW/
+ 1082  touch fibo_cw.cpp
+ 1083  l
+ 1084  g++ fibo_cw.cpp 
+ 1085  ./a.out
+ 1086  g++ fibo_cw.cpp 
+ 1087  ./a.out
+ 1088  g++ fibo_cw.cpp 
+ 1089  ./a.out
+ 1090  g++ fibo_cw.cpp 
+ 1091  ./a.out
+ 1092  g++ fibo_cw.cpp 
+ 1093  ./a.out
+ 1094  g++ fibo_cw.cpp 
+ 1095  ./a.out
+ 1096  time ./a.out
+ 1097  g++ fibo_cw.cpp 
+ 1098  time ./a.out
+ 1099  g++ szablon_klas.cpp 
+ 1100  ./a.out
+ 1101  mkdir VECTOR
+ 1102  cd VECTOR/
+ 1103  make
+ 1104  g++ test.cpp
+ 1105  ls -l
+ 1106  ls -lh
+ 1107  cd Pulpit/
+ 1108  ls
+ 1109  mkdir PP
+ 1110  cd PP
+ 1111  touch plik.txt file c.pp
+ 1112  ls
+ 1113  rm -rf PP
+ 1114  ls
+ 1115  cd ..
+ 1116  rm -rf PP
+ 1117  ls
+ 1118  ls --help
+ 1119  ls
+ 1120  cd ZJAZD4
+ 1121  ls -l
+ 1122  cat 7.cpp
+ 1123  cat 9.cpp
+ 1124  cat 10.cpp
+ 1125  less 10.cpp
+ 1126  more 10.cpp
+ 1127  less 10.cpp
+ 1128  wc --help
+ 1129  man wc
+ 1130  echo piotr
+ 1131  echo ~
+ 1132  echo $
+ 1133  more
+ 1134  more --help
+ 1135  ma more
+ 1136  man more
+ 1137  echo $env
+ 1138  echo $ENV
+ 1139  less ~/PS1
+ 1140  echo $PS1
+ 1141  less ~/.bashrc
+ 1142  cd
+ 1143  ls -a
+ 1144  less ./bashrc
+ 1145  less .bashrc
+ 1146  cd Pulpit/
+ 1147  ls
+ 1148  mk plik.cpp
+ 1149  touch plik
+ 1150  ls
+ 1151  rm plik file
+ 1152  move --help
+ 1153  rn --help
+ 1154  rename --help
+ 1155  man rename
+ 1156  ls
+ 1157  touch plik
+ 1158  ls
+ 1159  rename plik .plik
+ 1160  sudo apt install rename
+ 1161  rename plik .plik
+ 1162  ls
+ 1163  mv plik .plik
+ 1164  ls
+ 1165  ls -a
+ 1166  clear
+ 1167  cd ~
+ 1168  ls
+ 1169  cd Pulpit/
+ 1170  ls
+ 1171  cd ZJAZD7
+ 1172  ls
+ 1173  find *.cpp
+ 1174  cd..
+ 1175  cd ..
+ 1176  find . -name *cpp
+ 1177  find .. -name *cpp
+ 1178  find . -name "*.cpp"
+ 1179  find . -name "*.cpp" |head
+ 1180  find --help
+ 1181  man find
+ 1182  find --help
+ 1183  find / -iname sth
+ 1184  grep -rn main
+ 1185  clear
+ 1186  cd ZJAZD4
+ 1187  ls
+ 1188  cat 3.cpp
+ 1189  echo halllllooooooooooo > 3.cpp
+ 1190  cat 3.cpp
+ 1191  echo halllllooooooooooo >> 3.cpp
+ 1192  cat 3.cpp
+ 1193  bc < 4 + 9
+ 1194  echo 4 + 6 > plik
+ 1195  bc < plik
+ 1196  ps
+ 1197  ps au
+ 1198  ps aux
+ 1199  top
+ 1200  htop
+ 1201  sudo snap install htop # version 3.0.5
+ 1202  htop
+ 1203  vim
+ 1204  sudo apt install vim
+ 1205  vim
+ 1206  ./a.out
+ 1207  g++ 1.cpp
+ 1208  ./a.out
+ 1209  g++ 2.cpp 
+ 1210  ./a.out
+ 1211  g++ 3.cpp 
+ 1212  ./a.out
+ 1213  g++ 3.cpp 
+ 1214  ./a.out
+ 1215  g++ 3.cpp 
+ 1216  ./a.out
+ 1217  g++ 3.cpp 
+ 1218  ./a.out
+ 1219  g++ 3.cpp 
+ 1220  ./a.out
+ 1221  g++ 3.cpp 
+ 1222  ./a.out
+ 1223  g++ 3.cpp 
+ 1224  ./a.out
+ 1225  ls
+ 1226  cd Pulpit/
+ 1227  ls
+ 1228  cd CODERS_CPP/
+ 1229  ls
+ 1230  mkdir git-majonez
+ 1231  cd git-majonez/
+ 1232  git init
+ 1233  touch main.cpp
+ 1234  coders.
+ 1235  coders .
+ 1236  code .
+ 1237  git status
+ 1238  git add .
+ 1239  git commit -am"Initial commit"
+ 1240  git log
+ 1241  git status
+ 1242  git add .
+ 1243  git commit -am"Farewell changed"
+ 1244  git log
+ 1245  git remote add origin https://github.com/kostuch76/git-majonez.git
+ 1246  git push -u origin master
+ 1247  git status
+ 1248  git log
+ 1249  git branch cs
+ 1250  git branch
+ 1251  git reset HEAD^ --hard
+ 1252  git log
+ 1253  git checkout cs
+ 1254  git branch
+ 1255  git status
+ 1256  git add .
+ 1257  git commit -am"Greetings"
+ 1258  git log
+ 1259  git push origin cs
+ 1260  git log
+ 1261  git checkout master
+ 1262  git merge cs
+ 1263  git log
+ 1264  gitk &
+ 1265  git status
+ 1266  git branch -a
+ 1267  ls
+ 1268  cd ..
+ 1269  ls
+ 1270  rm -rf git-majonez/
+ 1271  ls
+ 1272  clear
+ 1273  ls
+ 1274  mkdir git -majonez
+ 1275  mkdir git-majonez
+ 1276  cd git-majonez/
+ 1277  git init
+ 1278  touch main.cpp
+ 1279  coders .
+ 1280  code .
+ 1281  git status
+ 1282  git add .
+ 1283  git commit -am"Initial commit:
+ 1284  git commit -am"Initial commit"
+ 1285  git log
+ 1286  git status
+ 1287  git add .
+ 1288  git commit -am"Farewell changed"
+ 1289  git log
+ 1290  git remote add origin https://github.com/kostuch76/git-majonez.git
+ 1291  git push -u origin master
+ 1292  git statyus
+ 1293  git status
+ 1294  git log
+ 1295  git checkout -b cs
+ 1296  git branch
+ 1297  git log
+ 1298  git reset HEAD^ --hard
+ 1299  git log
+ 1300  git schow
+ 1301  git show
+ 1302  git log
+ 1303  git status
+ 1304  git add .
+ 1305  git commit -am"Greetings"
+ 1306  git log
+ 1307  git push origin cs
+ 1308  git checkout master
+ 1309  git merge cs
+ 1310  git status
+ 1311  git add main.cpp
+ 1312  git commit -m"Merge branch 'cs'"
+ 1313  git log
+ 1314  gitk &
+ 1315  history > history.txt
